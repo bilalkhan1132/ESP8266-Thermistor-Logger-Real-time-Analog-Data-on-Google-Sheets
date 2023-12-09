@@ -1,1 +1,2 @@
 # ESP8266-Thermistor-Logger-Real-time-Analog-Data-on-Google-Sheets
+Excited to share my latest project using ESP8266 to read analog values, convert them using a voltage divider circuit connected to a thermistor, and seamlessly log data to Google Sheets! 📈🌐 Witness how this project automatically records analog data alongside corresponding values on Google Sheets with timestamps. Using only ESP8266, it's incredible to see the diverse applications achievable for remote monitoring and data logging.
